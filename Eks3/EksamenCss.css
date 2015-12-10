@@ -1,0 +1,74 @@
+#Wrapper
+{
+    width:1024px;
+    min-height: 700px;
+    margin:auto;
+    
+}
+
+h1
+{
+    padding-top: 7px;
+    
+}
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+#Header
+{
+    width:1024px;
+    height:50px;
+    background-color: #b3d1ff;
+    
+    
+}
+
+#Menu
+{
+    width:1024px;
+    height:30px;
+    margin-top: 10px;
+    background-color: #b3d1ff;
+    
+}
+
+#Content
+{
+    width:1024px;
+    min-height:600px;
+    margin-top: 5px;
+}
+
+#Footer
+{
+    width:1024px;
+    height:25px;
+    background-color: #b3d1ff;
+    
+}
+
+
+#Logo
+{
+    width:50px;
+    height:50px;
+    float:left;
+}
+
+.Imagewrapper
+{
+    float:left;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+#FrontpageImage
+{
+    height:400px
+    
+}
